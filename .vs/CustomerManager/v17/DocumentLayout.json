@@ -1,0 +1,103 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\C#\\CustomerManager\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DD2C5229-9863-48A3-8C3C-BD02812CA745}|CustomerManager.csproj|E:\\C#\\CustomerManager\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DD2C5229-9863-48A3-8C3C-BD02812CA745}|CustomerManager.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD2C5229-9863-48A3-8C3C-BD02812CA745}|CustomerManager.csproj|E:\\C#\\CustomerManager\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD2C5229-9863-48A3-8C3C-BD02812CA745}|CustomerManager.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD2C5229-9863-48A3-8C3C-BD02812CA745}|CustomerManager.csproj|E:\\C#\\CustomerManager\\frmedit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD2C5229-9863-48A3-8C3C-BD02812CA745}|CustomerManager.csproj|solutionrelative:frmedit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD2C5229-9863-48A3-8C3C-BD02812CA745}|CustomerManager.csproj|e:\\c#\\customermanager\\frmedit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DD2C5229-9863-48A3-8C3C-BD02812CA745}|CustomerManager.csproj|solutionrelative:frmedit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD2C5229-9863-48A3-8C3C-BD02812CA745}|CustomerManager.csproj|e:\\c#\\customermanager\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD2C5229-9863-48A3-8C3C-BD02812CA745}|CustomerManager.csproj|solutionrelative:form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "E:\\C#\\CustomerManager\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Form1.Designer.cs",
+              "ToolTip": "E:\\C#\\CustomerManager\\Form1.Designer.cs",
+              "RelativeToolTip": "Form1.Designer.cs",
+              "ViewState": "AgIAAJ8AAAAAAAAAAAAIwKsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-22T12:31:56.677Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "frmEdit.cs",
+              "DocumentMoniker": "E:\\C#\\CustomerManager\\frmEdit.cs",
+              "RelativeDocumentMoniker": "frmEdit.cs",
+              "ToolTip": "E:\\C#\\CustomerManager\\frmEdit.cs",
+              "RelativeToolTip": "frmEdit.cs",
+              "ViewState": "AgIAAEwAAAAAAAAAAAAmwIMAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-21T20:31:36.497Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "frmEdit.cs [Design]",
+              "DocumentMoniker": "E:\\C#\\CustomerManager\\frmEdit.cs",
+              "RelativeDocumentMoniker": "frmEdit.cs",
+              "ToolTip": "E:\\C#\\CustomerManager\\frmEdit.cs [Design]",
+              "RelativeToolTip": "frmEdit.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-21T20:20:39.456Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "E:\\C#\\CustomerManager\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "E:\\C#\\CustomerManager\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AgIAAOIAAAAAAAAAAAAmwAAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-21T10:08:28.187Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "E:\\C#\\CustomerManager\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "E:\\C#\\CustomerManager\\Form1.cs [Design]",
+              "RelativeToolTip": "Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-21T09:35:48.511Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

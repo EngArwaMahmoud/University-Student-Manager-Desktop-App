@@ -1,0 +1,11 @@
+E:\C#\CustomerManager\bin\Debug\CustomerManager.exe.config
+E:\C#\CustomerManager\bin\Debug\CustomerManager.exe
+E:\C#\CustomerManager\bin\Debug\CustomerManager.pdb
+E:\C#\CustomerManager\obj\Debug\CustomerManager.csproj.AssemblyReference.cache
+E:\C#\CustomerManager\obj\Debug\CustomerManager.Form1.resources
+E:\C#\CustomerManager\obj\Debug\CustomerManager.Properties.Resources.resources
+E:\C#\CustomerManager\obj\Debug\CustomerManager.csproj.GenerateResource.cache
+E:\C#\CustomerManager\obj\Debug\CustomerManager.csproj.CoreCompileInputs.cache
+E:\C#\CustomerManager\obj\Debug\CustomerManager.exe
+E:\C#\CustomerManager\obj\Debug\CustomerManager.pdb
+E:\C#\CustomerManager\obj\Debug\CustomerManager.frmEdit.resources
