@@ -10,20 +10,13 @@ This application simulates a simple student management system used by a universi
 ⸻
 
 Features
-	•	Add New Student:
-Add a new student with ID, name, college, major, and academic level.
-	•	Dynamic College-Major Relation:
-Majors are dynamically loaded based on the selected college. Each college has its specific set of majors.
-	•	Conditional Academic Level:
-If the selected college is Engineering, “Preparatory Engineering” level appears; otherwise, standard levels are shown.
-	•	Edit Student Information:
-Modify any student’s details through a separate edit form.
-	•	Delete Student:
-Delete an existing student with a confirmation message to prevent accidental deletions.
-	•	Fill Random Data:
-Automatically fill the ListView with 10 random student records (college, major, and level are randomly selected).
-	•	Flexible ListView Modes:
-Display students in various styles such as Details, Large Icon, Small Icon, or Tile view — just like Windows Explorer.
+	•	Add New Student: Add a new student with ID, name, college, major, and academic level.
+	•	Dynamic College-Major Relation:Majors are dynamically loaded based on the selected college. Each college has its specific set of majors.
+	•	Conditional Academic Level:If the selected college is Engineering, “Preparatory Engineering” level appears; otherwise, standard levels are shown.
+	•	Edit Student Information:Modify any student’s details through a separate edit form.
+	•	Delete Student:Delete an existing student with a confirmation message to prevent accidental deletions.
+	•	Fill Random Data:Automatically fill the ListView with 10 random student records (college, major, and level are randomly selected).
+	•	Flexible ListView Modes:Display students in various styles such as Details, Large Icon, Small Icon, or Tile view — just like Windows Explorer.
 
 ⸻
 
