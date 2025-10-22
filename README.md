@@ -10,32 +10,32 @@ This application simulates a simple student management system used by a universi
 ⸻
 
 Features
-	•	Add New Student: Add a new student with ID, name, college, major, and academic level.
-	•	Dynamic College-Major Relation:Majors are dynamically loaded based on the selected college. Each college has its specific set of majors.
-	•	Conditional Academic Level:If the selected college is Engineering, “Preparatory Engineering” level appears; otherwise, standard levels are shown.
-	•	Edit Student Information:Modify any student’s details through a separate edit form.
-	•	Delete Student:Delete an existing student with a confirmation message to prevent accidental deletions.
-	•	Fill Random Data:Automatically fill the ListView with 10 random student records (college, major, and level are randomly selected).
-	•	Flexible ListView Modes:Display students in various styles such as Details, Large Icon, Small Icon, or Tile view — just like Windows Explorer.
+	1- Add New Student: Add a new student with ID, name, college, major, and academic level.
+	2- Dynamic College-Major Relation:Majors are dynamically loaded based on the selected college. Each college has its specific set of majors.
+	3- Conditional Academic Level:If the selected college is Engineering, “Preparatory Engineering” level appears; otherwise, standard levels are shown.
+	4- Edit Student Information:Modify any student’s details through a separate edit form.
+	5- Delete Student:Delete an existing student with a confirmation message to prevent accidental deletions.
+	6- Fill Random Data:Automatically fill the ListView with 10 random student records (college, major, and level are randomly selected).
+	7- Flexible ListView Modes:Display students in various styles such as Details, Large Icon, Small Icon, or Tile view — just like Windows Explorer.
 
 ⸻
 
 Technologies Used
-	•	Language: C#
-	•	Framework: .NET (Windows Forms)
-	•	IDE: Visual Studio
+	1- Language: C#
+	2- Framework: .NET (Windows Forms)
+	3- IDE: Visual Studio
 
 ⸻
 
 Learning Outcomes
 
 During this project, I learned and practiced:
-	•	Using and customizing ListView controls.
-	•	Managing events and preventing unintended event triggers.
-	•	Dynamically populating ComboBoxes based on user selections.
-	•	Building modular forms (main form + edit form).
-	•	Handling user confirmation dialogs.
-	•	Writing clean and organized C# code.
+	1- Using and customizing ListView controls.
+	2- Managing events and preventing unintended event triggers.
+	3- Dynamically populating ComboBoxes based on user selections.
+	4- Building modular forms (main form + edit form).
+	5- Handling user confirmation dialogs.
+	6- Writing clean and organized C# code.
   
 Author
 
